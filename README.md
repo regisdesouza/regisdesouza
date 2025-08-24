@@ -4,6 +4,11 @@
 
 Me chamo Reginaldo de Souza Lima, tenho 20 anos e moro no estado de São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na SPTECH School. Tenho uma paixão por tecnologia desde criança e pretendo construir grandes projetos na área.
 
+ <a href="https://www.linkedin.com/in/reginaldo-lima-30b654223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="mailto:reginaldo.lima@sptech.school"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
+ <a href="https://instagram.com/regiswtf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
